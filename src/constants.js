@@ -1,1 +1,1 @@
-export const DB_NAME = "fProject";
+export const DB_NAME = "ashparsh";
